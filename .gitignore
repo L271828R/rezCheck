@@ -1,0 +1,6 @@
+.env
+*.pdf
+bin
+include
+lib
+pyvenv.cfg
